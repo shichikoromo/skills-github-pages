@@ -1,4 +1,5 @@
-theme: minima
+theme: minina
+remote_theme: pages-themes/minimal@v0.2.0
 title: 海の見えぬ街
 author: いぬい
 description: ドイツでの生活を記録していきます
